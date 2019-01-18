@@ -1,4 +1,4 @@
-# IndoorGeoNet
+# DeepPBM: Deep Probabilistic Background Modeling
 
 This code is the implementation of the following paper in Pytorch:
 
