@@ -2,9 +2,10 @@
 
 This code is the implementation of the following paper in Pytorch:
 
-DeepPBM: DEEP PROBABILISTIC BACKGROUND MODEL ESTIMATIONFROM VIDEO SEQUENCES
+DeepPBM: Deep Probabilistic Background Model Estimation from Video Sequences
 
-Behnaz Rezaei, Amirreza Farnoosh and Sarah Ostadabbas
+Authors: Behnaz Rezaei, Amirreza Farnoosh and Sarah Ostadabbas
+Contact: ostadabbas@ece.neu.edu
 
 
 ## Requirements
@@ -43,3 +44,7 @@ You should run MaskExtraction_BMC2012.m to generate binary foreground masks from
 You should run processVideoFolder.m , and then confusionMatrixToVar.m to generate quantitative results. 
 
 ## Reference
+
+Behnaz Rezaei, Amirreza Farnoosh and Sarah Ostadabbas, "DeepPBM: Deep Probabilistic Background Model Estimation from Video Sequences," 2019.
+
+
