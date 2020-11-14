@@ -45,6 +45,6 @@ You should run processVideoFolder.m , and then confusionMatrixToVar.m to generat
 
 ## Reference
 
-Behnaz Rezaei, Amirreza Farnoosh and Sarah Ostadabbas, "DeepPBM: Deep Probabilistic Background Model Estimation from Video Sequences," 2019.
+Behnaz Rezaei, Amirreza Farnoosh and Sarah Ostadabbas, "DeepPBM: Deep Probabilistic Background Model Estimation from Video Sequences," The Third International Workshop on Deep Learning for Pattern Recognition (DLPR20), in conjunction with the 25th International Conference on Pattern Recognition (ICPR 2020), Milan, Italy.
 
 
