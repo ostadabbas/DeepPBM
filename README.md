@@ -1,11 +1,11 @@
 # DeepPBM: Deep Probabilistic Background Modeling
 
-This code is the implementation of the following paper in Pytorch:
+This code is the implementation of the following paper accepted to the ICPR2020 Workshop on Deep Learning for Pattern Recognition (DLPR20):
 
 DeepPBM: Deep Probabilistic Background Model Estimation from Video Sequences
 
-Authors: Behnaz Rezaei, Amirreza Farnoosh and Sarah Ostadabbas
-Contact: ostadabbas@ece.neu.edu
+Authors: Amirreza Farnoosh, Behnaz Rezaei, and Sarah Ostadabbas
+Corresponding Author: ostadabbas@ece.neu.edu
 
 
 ## Requirements
@@ -45,6 +45,6 @@ You should run processVideoFolder.m , and then confusionMatrixToVar.m to generat
 
 ## Reference
 
-Behnaz Rezaei, Amirreza Farnoosh and Sarah Ostadabbas, "DeepPBM: Deep Probabilistic Background Model Estimation from Video Sequences," The Third International Workshop on Deep Learning for Pattern Recognition (DLPR20), in conjunction with the 25th International Conference on Pattern Recognition (ICPR 2020), Milan, Italy.
+Amirreza Farnoosh, Behnaz Rezaei,  and Sarah Ostadabbas, "DeepPBM: Deep Probabilistic Background Model Estimation from Video Sequences," The Third International Workshop on Deep Learning for Pattern Recognition (DLPR20), in conjunction with the 25th International Conference on Pattern Recognition (ICPR 2020), Milan, Italy.
 
 
