@@ -2,7 +2,7 @@
 
 This code is the implementation of the following paper accepted to the ICPR2020 Workshop on Deep Learning for Pattern Recognition (DLPR20):
 
-DeepPBM: Deep Probabilistic Background Model Estimation from Video Sequences
+DeepPBM: Deep Probabilistic Background Model Estimation from Video Sequences (https://arxiv.org/pdf/1902.00820.pdf)
 
 Authors: Amirreza Farnoosh, Behnaz Rezaei, and Sarah Ostadabbas
 Corresponding Author: ostadabbas@ece.neu.edu
@@ -45,6 +45,17 @@ You should run processVideoFolder.m , and then confusionMatrixToVar.m to generat
 
 ## Reference
 
-Amirreza Farnoosh, Behnaz Rezaei,  and Sarah Ostadabbas, "DeepPBM: Deep Probabilistic Background Model Estimation from Video Sequences," The Third International Workshop on Deep Learning for Pattern Recognition (DLPR20), in conjunction with the 25th International Conference on Pattern Recognition (ICPR 2020), Milan, Italy.
+@article{farnoosh2020deeppbm,
+  title={DeepPBM: deep probabilistic background model estimation from video sequences},
+  author={Farnoosh, Amirreza and Rezaei, Behnaz and Ostadabbas, Sarah},
+  journal={The Third International Workshop on Deep Learning for Pattern Recognition (DLPR20), in conjunction with the 25th International Conference on Pattern Recognition (ICPR 2020)},
+  year={2020}
+}
 
-
+## For further inquiry please contact: 
+Sarah Ostadabbas, PhD
+Electrical & Computer Engineering Department
+Northeastern University, Boston, MA 02115
+Office Phone: 617-373-4992
+ostadabbas@ece.neu.edu
+Augmented Cognition Lab (ACLab) Webpage: http://www.northeastern.edu/ostadabbas/
